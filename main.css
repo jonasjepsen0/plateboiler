@@ -1,0 +1,43 @@
+body{
+
+}
+
+header{
+    background-color: blue;
+}
+
+header nav{
+    background-color: red;
+}
+
+header nav a{
+    background-color: green;
+}
+
+.sect{
+    background-color: yellow;
+}
+
+.sect h2{
+    background-color: purple;
+}
+
+.sect article{
+    background-color: aqua;
+}
+
+.sect article p{
+    background-color: orange;
+}
+
+.sect article a{
+    background-color: blue;
+}
+
+.sect article figure{
+    background-color: red;
+}
+
+footer{
+    background-color: green;
+}
